@@ -23293,7 +23293,7 @@
             },
             "life": "pool",
             "load": "stream",
-            "path": "I\\AM\\BROKEN\\rt64\\Termina Invasion\\a3386471#0#2_26694b8f9dcce4d5.png"
+            "path": "rt64\\Termina Invasion\\a3386471#0#2_26694b8f9dcce4d5.png"
         },
         {
             "hashes": {
@@ -23302,7 +23302,7 @@
             },
             "life": "pool",
             "load": "stream",
-            "path": "I\\AM\\BROKEN\\rt64\\Termina Invasion\\a3386471#0#2_5185e5ba8d6586a9.png"
+            "path": "rt64\\Termina Invasion\\a3386471#0#2_5185e5ba8d6586a9.png"
         },
         {
             "hashes": {
@@ -23311,7 +23311,7 @@
             },
             "life": "pool",
             "load": "stream",
-            "path": "I\\AM\\BROKEN"
+            "path": ""
         }
     ]
 }
