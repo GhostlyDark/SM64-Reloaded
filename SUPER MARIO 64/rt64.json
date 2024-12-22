@@ -2,8 +2,9 @@
     "configuration": {
         "autoPath": "rice",
         "configurationVersion": 2,
-        "hashVersion": 2
+        "hashVersion": 3
     },
+    "operationFilters": [],
     "textures": [
         {
             "hashes": {
@@ -15338,7 +15339,7 @@
         {
             "hashes": {
                 "rice": "40be3fb9#2#1#8f2039bf",
-                "rt64": "a0eab012f2636f1b"
+                "rt64": "b20cf5ce573a36da"
             },
             "path": ""
         },
