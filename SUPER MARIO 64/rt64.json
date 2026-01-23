@@ -15,6 +15,20 @@
     "textures": [
         {
             "hashes": {
+                "rice": "a3386471#0#2",
+                "rt64": "26694b8f9dcce4d5"
+            },
+            "path": "rt64\\Termina Invasion\\a3386471#0#2_26694b8f9dcce4d5"
+        },
+        {
+            "hashes": {
+                "rice": "a3386471#0#2",
+                "rt64": "5185e5ba8d6586a9"
+            },
+            "path": "rt64\\Termina Invasion\\a3386471#0#2_5185e5ba8d6586a9"
+        },
+        {
+            "hashes": {
                 "rice": "1ebae88a#0#2",
                 "rt64": "004a737400851c2d"
             },
@@ -16525,20 +16539,6 @@
                 "rt64": "d8d6c6fbca52d1bd"
             },
             "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "a3386471#0#2",
-                "rt64": "26694b8f9dcce4d5"
-            },
-            "path": "rt64\\Termina Invasion\\a3386471#0#2_26694b8f9dcce4d5"
-        },
-        {
-            "hashes": {
-                "rice": "a3386471#0#2",
-                "rt64": "5185e5ba8d6586a9"
-            },
-            "path": "rt64\\Termina Invasion\\a3386471#0#2_5185e5ba8d6586a9"
         },
         {
             "hashes": {
