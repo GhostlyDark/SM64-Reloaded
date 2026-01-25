@@ -494,7 +494,7 @@ cp "Characters/Mad Piano/SUPER MARIO 64#8213677C#0#2_all.png" "$BUILD/gfx/actors
 cp "Characters/Mad Piano/SUPER MARIO 64#A3C0D76F#0#2_all.png" "$BUILD/gfx/actors/mad_piano/mad_piano_keys_corner.rgba16.png"
 cp "Characters/Mad Piano/SUPER MARIO 64#C9A1F57E#0#2_all.png" "$BUILD/gfx/actors/mad_piano/mad_piano_keys_edge.rgba16.png"
 cp "Characters/Mad Piano/SUPER MARIO 64#FB38796A#0#2_all.png" "$BUILD/gfx/actors/mad_piano/mad_piano_mouth.rgba16.png"
-cp "Characters/Mad Piano/SUPER MARIO 64#FD6AF08F#0#2_all.png" "$BUILD/gfx/actors/mad_piano/mad_piano_tooth.rgba16.png"
+cp "Characters/Chain Chomp/SUPER MARIO 64#09740389#0#2_all.png" "$BUILD/gfx/actors/mad_piano/mad_piano_tooth.rgba16.png"
 
 cp "Characters/Manta Ray/SUPER MARIO 64#1203BAA7#0#2_all.png" "$BUILD/gfx/actors/manta/manta_eye.rgba16.png"
 cp "Characters/Manta Ray/SUPER MARIO 64#8C1EBB7F#0#2_all.png" "$BUILD/gfx/actors/manta/manta_fin_corner.rgba16.png"
