@@ -1563,6 +1563,7 @@ cp "_temp/SUPER MARIO 64#72768866#3#1_all.png" "$PORT/Letters/8x8/Numerals/9/tex
 cp "_temp/SUPER MARIO 64#86888984#3#1_all.png" "$PORT/Letters/8x8/Punctuation/Europe/tex1_8x8_9e233f012ad76700_2.png"
 cp "_temp/SUPER MARIO 64#8A848688#3#1_all.png" "$PORT/Letters/8x8/Punctuation/Europe/tex1_8x8_c9392be5ff329e74_2.png"
 cp "_temp/SUPER MARIO 64#607A828A#3#1_all.png" "$PORT/Letters/8x8/Punctuation/tex1_8x8_29cc7611afff1395_2.png"
+cp "_temp/SUPER MARIO 64#86848A88#3#1_all.png" "$PORT/Letters/8x8/Punctuation/tex1_8x8_d2745ecf3c81216e_2.png"
 cp "_temp/SUPER MARIO 64#6EB46458#3#1_all.png" "$PORT/Letters/8x8/Punctuation/tex1_8x8_2b2a496ab362c38d_2.png"
 cp "_temp/SUPER MARIO 64#80788486#3#1_all.png" "$PORT/Letters/8x8/Punctuation/tex1_8x8_4e202ca8e40efe85_2.png"
 cp "_temp/SUPER MARIO 64#82888684#3#1_all.png" "$PORT/Letters/8x8/Punctuation/tex1_8x8_a1fa041e17b721f9_2.png"

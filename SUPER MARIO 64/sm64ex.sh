@@ -1058,6 +1058,7 @@ cp "_temp/SUPER MARIO 64#C4F693E5#3#1_all.png" "$PORT/gfx/levels/menu/main_menu_
 cp "_temp/SUPER MARIO 64#7E87867A#3#1_all.png" "$PORT/gfx/levels/menu/main_menu_seg7_us.0B780.ia8.png"
 cp "_temp/SUPER MARIO 64#8C868486#3#1_all.png" "$PORT/gfx/levels/menu/main_menu_seg7_us.0B7C0.ia8.png"
 cp "_temp/SUPER MARIO 64#6EB46458#3#1_all.png" "$PORT/gfx/levels/menu/main_menu_seg7_us.0B800.ia8.png"
+cp "_temp/SUPER MARIO 64#86848A88#3#1_all.png" "$PORT/gfx/levels/menu/main_menu_seg7_eu.0B8C0.ia8.png"
 
 cp "_temp/SUPER MARIO 64#403C6122#0#2_all.png" "$PORT/gfx/levels/pss/0.rgba16.png"
 cp "_temp/SUPER MARIO 64#19E8F076#3#2_all.png" "$PORT/gfx/levels/pss/1.ia16.png"
