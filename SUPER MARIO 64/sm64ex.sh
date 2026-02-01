@@ -2285,7 +2285,6 @@ cp "_temp/SUPER MARIO 64#3909F67D#0#2_all.png" "$PORT/gfx/textures/snow/ccm_text
 cp "_temp/SUPER MARIO 64#9678001C#0#2_all.png" "$PORT/gfx/textures/snow/ccm_textures.02000.rgba16.png"
 cp "_temp/SUPER MARIO 64#744A7D8E#0#2_all.png" "$PORT/gfx/textures/snow/ccm_textures.02800.rgba16.png"
 cp "_temp/SUPER MARIO 64#9B6B4DBC#0#2_all.png" "$PORT/gfx/textures/snow/ccm_textures.03000.rgba16.png"
-cp "_temp/SUPER MARIO 64#1FC70576#0#2_all.png" "$PORT/gfx/textures/snow/ccm_textures.03800.rgba16.png"
 cp "_temp/SUPER MARIO 64#56DA6B66#0#2_all.png" "$PORT/gfx/textures/snow/ccm_textures.04000.rgba16.png"
 cp "_temp/SUPER MARIO 64#9CAB9C3A#0#2_all.png" "$PORT/gfx/textures/snow/ccm_textures.04800.rgba16.png"
 cp "_temp/SUPER MARIO 64#F831589E#0#2_all.png" "$PORT/gfx/textures/snow/ccm_textures.05000.rgba16.png"
