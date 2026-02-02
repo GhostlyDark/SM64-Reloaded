@@ -1611,6 +1611,7 @@ cp "_temp/SUPER MARIO 64#6F32A4FB#0#2_all.png" "$PORT/gfx/textures/segment2/segm
 cp "_temp/SUPER MARIO 64#438CC5BE#0#2_all.png" "$PORT/gfx/textures/segment2/segment2.07D50.rgba16.png"
 cp "_temp/SUPER MARIO 64#676B6CF3#0#2_all.png" "$PORT/gfx/textures/segment2/segment2.07F50.rgba16.png"
 cp "_temp/SUPER MARIO 64#D8502FF0#0#2_all.png" "$PORT/gfx/textures/segment2/segment2.07000.rgba16.png"
+cp "_temp/SUPER MARIO 64#25B219C7#0#2_all.png" "$PORT/gfx/textures/segment2/segment2.07080.rgba16.png"
 cp "_temp/SUPER MARIO 64#A7398F08#0#2_all.png" "$PORT/gfx/textures/segment2/segment2.081D0.rgba16.png"
 cp "_temp/SUPER MARIO 64#EC24C279#0#2_all.png" "$PORT/gfx/textures/segment2/segment2.08150.rgba16.png"
 cp "_temp/SUPER MARIO 64#DFFBB688#0#2_all.png" "$PORT/gfx/textures/segment2/segment2.11C58.rgba16.png"
