@@ -17,7 +17,7 @@ shopt -s globstar
 
 # Set variables
 
-PORT="_build/Ghostship"
+PORT="_build/SM64 Reloaded (Ghostship)"
 
 
 
@@ -33,8 +33,8 @@ mkdir -p "_temp"
 
 # Copy textures to work directories
 
-cp -r "Ports/Ghostship" "_build"
-cp --target-directory="_temp" **/"SUPER MARIO 64"*.png
+cp -r "Ports/Ghostship/"* "$PORT"
+cp **"/SUPER MARIO 64"*.png "_temp"
 
 
 

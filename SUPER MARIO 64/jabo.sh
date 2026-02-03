@@ -17,7 +17,7 @@ shopt -s globstar
 
 # Set variables
 
-PORT="_build/Jabo"
+PORT="_build/SM64 Reloaded (Jabo)"
 
 
 
@@ -33,8 +33,8 @@ mkdir -p "_temp"
 
 # Copy textures to work directories
 
-cp -r "Ports/Jabo" "_build"
-cp --target-directory="_temp" **/"SUPER MARIO 64"*.png
+cp -r "Ports/Jabo/"* "$PORT"
+cp **"/SUPER MARIO 64"*.png "_temp"
 
 
 
