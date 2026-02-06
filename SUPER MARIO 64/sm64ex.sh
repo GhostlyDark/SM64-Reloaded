@@ -319,6 +319,8 @@ cp "_temp/SUPER MARIO 64#D35575D6#0#2_all.png" "$PORT/gfx/actors/bully/bully_hor
 cp "_temp/SUPER MARIO 64#09CABB08#0#2_all.png" "$PORT/gfx/actors/bully/bully_left_side.rgba16.png"
 cp "_temp/SUPER MARIO 64#36D9C81E#0#2_all.png" "$PORT/gfx/actors/bully/bully_right_side.rgba16.png"
 
+cp "_temp/SUPER MARIO 64#D3A287BB#0#2_all.png" "$PORT/gfx/actors/burn_smoke/burn_smoke.ia16.png"
+
 cp "_temp/SUPER MARIO 64#26DFC97D#0#2_all.png" "$PORT/gfx/actors/butterfly/butterfly_wing.rgba16.png"
 
 cp "_temp/SUPER MARIO 64#94776F27#0#2_all.png" "$PORT/gfx/actors/cannon_barrel/cannon_barrel.rgba16.png"
