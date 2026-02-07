@@ -779,6 +779,7 @@ cp "_temp/SUPER MARIO 64#3D51E423#0#2_all.png" "$PORT/Boot/Logo/tex1_16x16_7b7e0
 cp "_temp/SUPER MARIO 64#610B81D3#0#2_all.png" "$PORT/Boot/Logo/tex1_128x16_084a9e6315091ad3_5.png"
 cp "_temp/SUPER MARIO 64#B1A11E42#0#2_all.png" "$PORT/Boot/Logo/tex1_128x16_bed487c29312e1fa_5.png"
 cp "_temp/SUPER MARIO 64#B2E16417#0#2_all.png" "$PORT/Boot/Logo/tex1_16x16_74f3c8fab7872b68_5.png"
+cp "_temp/SUPER MARIO 64#B7C38322#0#2_all.png" "$PORT/Boot/Logo/tex1_32x32_7d1193da46a4b7c2_5.png"
 
 cp "_temp/SUPER MARIO 64#563280BD#0#2_all.png" "$PORT/Boot/Press Start/Game Over/tex1_80x20_13568291b0e4860b_5.png"
 cp "_temp/SUPER MARIO 64#75701F22#0#2_all.png" "$PORT/Boot/Press Start/Game Over/tex1_80x20_41958cc1e93d4107_5.png"

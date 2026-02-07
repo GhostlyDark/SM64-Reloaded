@@ -879,6 +879,7 @@ cp "_temp/SUPER MARIO 64#4ED23BE0#0#2_all.png" "$PORT/levels/hmc/6.png"
 cp "_temp/SUPER MARIO 64#184368CA#0#2_all.png" "$PORT/levels/hmc/7.png"
 
 cp "_temp/SUPER MARIO 64#3BA40EE9#0#2_all.png" "$PORT/levels/intro/0.png"
+cp "_temp/SUPER MARIO 64#B7C38322#0#2_all.png" "$PORT/levels/intro/1.png"
 cp "_temp/SUPER MARIO 64#610B81D3#0#2_all.png" "$PORT/levels/intro/2_copyright.png"
 cp "_temp/SUPER MARIO 64#3D51E423#0#2_all.png" "$PORT/levels/intro/3_tm.png"
 
