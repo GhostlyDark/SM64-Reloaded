@@ -869,6 +869,7 @@ cp "_temp/SUPER MARIO 64#26DFC97D#0#2_all.png" "$PORT/Characters/Butterfly/tex1_
 
 cp "_temp/SUPER MARIO 64#01A60CCD#0#2_all.png" "$PORT/Characters/Chain Chomp/tex1_32x32_f2693aea9e981579_5.png"
 cp "_temp/SUPER MARIO 64#09740389#0#2_all.png" "$PORT/Characters/Chain Chomp/tex1_32x32_b065b91c88986f3b_5.png"
+cp "_temp/SUPER MARIO 64#09740389#0#2_all.png" "$PORT/Characters/Chain Chomp/Injects/tex1_32x32_96e589e8f8b9149e_5.png"
 cp "_temp/SUPER MARIO 64#354089BB#0#2_all.png" "$PORT/Characters/Chain Chomp/tex1_32x32_bd941649c2aba6b0_5.png"
 cp "_temp/SUPER MARIO 64#354089BB#0#2_all.png" "$PORT/Characters/Chain Chomp/Injects/tex1_32x32_b71c9691bcca203c_5.png"
 cp "_temp/SUPER MARIO 64#8AC74230#0#2_all.png" "$PORT/Characters/Chain Chomp/tex1_32x32_bfa6efd32809347d_5.png"
