@@ -2402,6 +2402,8 @@ cp "_temp/SUPER MARIO 64#BB980031#0#2_all$EXT" "$PORT/gfx/textures/title_screen_
 cp "_temp/SUPER MARIO 64#75701F22#0#2_all$EXT" "$PORT/gfx/textures/title_screen_bg/title_screen_bg.04CC0.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#8ECFFABB#0#2_all$EXT" "$PORT/gfx/textures/title_screen_bg/title_screen_bg.04040.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#563280BD#0#2_all$EXT" "$PORT/gfx/textures/title_screen_bg/title_screen_bg.05940.rgba16$EXT"
+cp "_temp/SUPER MARIO 64#D1500155#0#2_all$EXT" "$PORT/gfx/textures/title_screen_bg/title_screen_bg.06648_custom.rgba16$EXT"
+cp "_temp/SUPER MARIO 64#AFE7D9AE#0#2_all$EXT" "$PORT/gfx/textures/title_screen_bg/title_screen_bg.06648_en_custom.rgba16$EXT"
 
 cp "_temp/SUPER MARIO 64#E3C3F224#0#2_all$EXT" "$PORT/gfx/textures/water/jrb_textures.0A000.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#6879F1F6#0#2_all$EXT" "$PORT/gfx/textures/water/jrb_textures.0A800.rgba16$EXT"
