@@ -552,6 +552,8 @@ cp "_temp/SUPER MARIO 64#47CF2FCB#0#2_all$EXT" "$PORT/gfx/actors/mario/fist.rgba
 cp "_temp/SUPER MARIO 64#E972AC97#0#2_all$EXT" "$PORT/gfx/actors/mario/logo.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#6B8D43C4#0#2_all$EXT" "$PORT/gfx/actors/mario/mario_eyes_center.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#5D6B0678#0#2_all$EXT" "$PORT/gfx/actors/mario/mario_eyes_closed.rgba16$EXT"
+cp "_temp/SUPER MARIO 64#5D6B0678#0#2_all$EXT" "$PORT/gfx/actors/mario/mario_eyes_closed_unused_0.rgba16$EXT"
+cp "_temp/SUPER MARIO 64#5D6B0678#0#2_all$EXT" "$PORT/gfx/actors/mario/mario_eyes_closed_unused_1.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#28964B59#0#2_all$EXT" "$PORT/gfx/actors/mario/mario_eyes_dead.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#9FBECEF9#0#2_all$EXT" "$PORT/gfx/actors/mario/mario_eyes_half_closed.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#905D3214#0#2_all$EXT" "$PORT/gfx/actors/mario/mario_logo.rgba16$EXT"

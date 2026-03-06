@@ -535,6 +535,8 @@ cp "_temp/SUPER MARIO 64#D2EBC589#0#2_all$EXT" "$PORT/actors/manta/manta_gills$E
 
 cp "_temp/SUPER MARIO 64#6B8D43C4#0#2_all$EXT" "$PORT/actors/mario/mario_eyes_center$EXT"
 cp "_temp/SUPER MARIO 64#5D6B0678#0#2_all$EXT" "$PORT/actors/mario/mario_eyes_closed$EXT"
+cp "_temp/SUPER MARIO 64#5D6B0678#0#2_all$EXT" "$PORT/actors/mario/mario_eyes_closed_unused_0$EXT"
+cp "_temp/SUPER MARIO 64#5D6B0678#0#2_all$EXT" "$PORT/actors/mario/mario_eyes_closed_unused_1$EXT"
 cp "_temp/SUPER MARIO 64#28964B59#0#2_all$EXT" "$PORT/actors/mario/mario_eyes_dead$EXT"
 cp "_temp/SUPER MARIO 64#9FBECEF9#0#2_all$EXT" "$PORT/actors/mario/mario_eyes_half_closed$EXT"
 cp "_temp/SUPER MARIO 64#905D3214#0#2_all$EXT" "$PORT/actors/mario/mario_logo$EXT"
