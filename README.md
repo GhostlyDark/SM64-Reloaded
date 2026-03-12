@@ -88,10 +88,13 @@ Optional (but recommended) settings:
 
 ## sm64ex
 
-> [!NOTE]
+> [!IMPORTANT]
 > Depending on the fork used, it's required to build with `EXTERNAL_DATA=1`.
 
-Supported are sm64ex and most forks based on it, including but not limited to sm64rt (DDS recommended), sm64coopdx and render96ex. The textures can be read from a `.zip` file that sits inside the `build/us_pc/res` directory next to `base.zip`. It is also possible to be unpacked, following the same folder structure as the one inside `base.zip`.
+Supported are sm64ex and most forks based on it such as sm64rt (DDS recommended) and render96ex. The textures can be read from a `.zip` file that sits inside the `build/us_pc/res` directory next to `base.zip`. It is also possible to be unpacked, following the same folder structure as the one inside `base.zip`.
+
+> [!NOTE]
+> For sm64coopdx, the pack goes into `dynos/packs`, with a directory such as `dynos/packs/SM64 Reloaded` containing the folders `actors`, `levels` and `textures`.
 
 
 
