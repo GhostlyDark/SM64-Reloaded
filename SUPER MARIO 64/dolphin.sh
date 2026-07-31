@@ -1204,7 +1204,6 @@ cp "_temp/SUPER MARIO 64#3BAC2B9A#3#2_all$EXT" "$PORT/Effects/Light/tex1_16x16_9
 cp "_temp/SUPER MARIO 64#65542036#3#2_all$EXT" "$PORT/Effects/Light/tex1_32x32_47d6e1eb65c21ed7_3$EXT"
 cp "_temp/SUPER MARIO 64#6C3CE89F#3#2_all$EXT" "$PORT/Effects/Light/tex1_32x32_bff3f85efba72041_3$EXT"
 
-cp "_temp/SUPER MARIO 64#184368CA#0#2_all$EXT" "$PORT/Effects/Metal/tex1_32x32_2dfed89ba6e445ba_5$EXT"
 cp "_temp/SUPER MARIO 64#432D56BE#0#2_all$EXT" "$PORT/Effects/Metal/tex1_64x32_9fe1587a3c780b33_5$EXT"
 
 cp "_temp/SUPER MARIO 64#CD2A5787#0#2_all$EXT" "$PORT/Effects/Particles/tex1_16x16_069f6fabdd043276_5$EXT"

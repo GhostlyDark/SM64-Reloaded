@@ -899,7 +899,6 @@ cp "_temp/SUPER MARIO 64#8300DD14#0#2_all$EXT" "$PORT/gfx/levels/castle_inside/2
 cp "_temp/SUPER MARIO 64#A8FF4543#0#2_all$EXT" "$PORT/gfx/levels/castle_inside/26.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#CCA2987C#0#2_all$EXT" "$PORT/gfx/levels/castle_inside/27.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#D2A1C338#0#2_all$EXT" "$PORT/gfx/levels/castle_inside/28.rgba16$EXT"
-cp "_temp/SUPER MARIO 64#184368CA#0#2_all$EXT" "$PORT/gfx/levels/castle_inside/29.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#27183C4F#0#2_all$EXT" "$PORT/gfx/levels/castle_inside/30.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#E8FABCC5#0#2_all$EXT" "$PORT/gfx/levels/castle_inside/31.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#B6A89482#0#2_all$EXT" "$PORT/gfx/levels/castle_inside/32.rgba16$EXT"
@@ -987,7 +986,6 @@ cp "_temp/SUPER MARIO 64#06682E2E#0#2_all$EXT" "$PORT/gfx/levels/hmc/3.rgba16$EX
 cp "_temp/SUPER MARIO 64#6BEFEDB8#0#2_all$EXT" "$PORT/gfx/levels/hmc/4.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#8D2F37B0#0#2_all$EXT" "$PORT/gfx/levels/hmc/5.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#4ED23BE0#0#2_all$EXT" "$PORT/gfx/levels/hmc/6.rgba16$EXT"
-cp "_temp/SUPER MARIO 64#184368CA#0#2_all$EXT" "$PORT/gfx/levels/hmc/7.rgba16$EXT"
 
 cp "_temp/SUPER MARIO 64#3BA40EE9#0#2_all$EXT" "$PORT/gfx/levels/intro/0.rgba16$EXT"
 cp "_temp/SUPER MARIO 64#B7C38322#0#2_all$EXT" "$PORT/gfx/levels/intro/1.rgba16$EXT"
